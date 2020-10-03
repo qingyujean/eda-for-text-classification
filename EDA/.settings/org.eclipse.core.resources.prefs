@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/augment/gene_eda_data.py=utf-8
+encoding//src/fast/__init__.py=utf-8
+encoding//src/fast/fasttext_test.py=utf-8
+encoding//src/fast/fasttext_test_with_eda.py=utf-8
+encoding//src/fast/fasttext_train.py=utf-8
+encoding//src/fast/fasttext_train_with_eda.py=utf-8
+encoding//src/fast/fasttext_tune.py=utf-8
+encoding//src/fast/training_data_analysis.py=utf-8
